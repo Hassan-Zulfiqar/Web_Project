@@ -179,7 +179,6 @@ h1, h2, h3, h4, h5, h6 {
 ul li a{
     text-decoration: none;
 }
-
 @media screen and (max-width: 991px) {
     #home.container {
         padding-top: 1rem !important;
@@ -194,7 +193,6 @@ ul li a{
         font-size: 1rem !important;
     }
 }
-
 @media screen and (max-width: 768px) {
     #intro{
         padding: 3rem 1rem !important;
